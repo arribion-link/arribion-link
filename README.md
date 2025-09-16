@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Nuvex-Docs](https://nuvex-docs.pages.dev/)
+- 🔭 I’m currently working on [CSK MOBILE DEVELOPMENT COURSE](https://github.com/arribion-link/REACT-NATIVE-MOBILE-DEVELOPMENT-CSK-2025-2026-.git)
 
 - 💬 Ask me about **Javascript, React.Js, React Native, Express.js**
 
